@@ -10,11 +10,10 @@
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
-        <actionName>CallHighlightAction</actionName>
+        <actionName>CalHighlightAction</actionName>
         <formFactor>Small</formFactor>
         <type>Default</type>
-    </actionOverrides>
-    
+    </actionOverrides>    
     <actionOverrides>
         <actionName>CancelEdit</actionName>
         <type>Default</type>
